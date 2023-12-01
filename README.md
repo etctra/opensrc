@@ -40,7 +40,7 @@ Assurez-vous d'être dans le répertoire contenant le fichier `script.js` pour e
 
 ## Auteurs
 
-- Dan Zerbib - 2A5
+- [Dan Zerbib](https://github.com/etctra) - 2A5
 
 ## License
 

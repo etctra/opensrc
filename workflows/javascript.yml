@@ -1,0 +1,25 @@
+name: JavaScript CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Setup Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14' # Choisissez la version de Node.js correspondant à votre projet
+
+    - name: Install dependencies
+      run: npm install
+
+    - name: Run ESLint
+      run: npm run lint # Commande pour exécuter ESLint
+      
+    - name: Run tests
+      run: npm test # Commande pour exécuter les tests avec Jest

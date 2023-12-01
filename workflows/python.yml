@@ -1,0 +1,25 @@
+name: Python CI
+
+on: [push, pull_request]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x' # Choisissez la version de Python correspondant à votre projet
+
+    - name: Install dependencies
+      run: pip install -r requirements.txt # Installer les dépendances du projet
+
+    - name: Run Flake8
+      run: flake8 # Commande pour exécuter Flake8
+
+    - name: Run tests
+      run: pytest # Commande pour exécuter les tests avec pytest

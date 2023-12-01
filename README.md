@@ -20,6 +20,8 @@ Une fois les dépendances installées, vous pouvez exécuter le script principal
 
 ```bash
 node script.js
+```
+
 
 Assurez-vous d'être dans le répertoire contenant le fichier `script.js` pour exécuter la commande.
 

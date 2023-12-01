@@ -8,7 +8,7 @@ Une introduction plus détaillée du projet, ce qu'il fait, son objectif, etc.
 
 ## Comment Contribuer
 
-1. Clonez le projet (`git clone https://github.com/etctra/opensrc)
+1. Clonez le projet (`git clone https://github.com/etctra/opensrc`)
 2. Créez une nouvelle branche (`git checkout -b nouvelle-fonctionnalite`)
 3. Faites vos modifications
 4. Commitez vos changements (`git commit -am 'Ajout d'une nouvelle fonctionnalité'`)

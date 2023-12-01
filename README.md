@@ -67,7 +67,7 @@ Le projet est structuré comme suit :
   - `src` : Le répertoire des fichiers sources.
     - `script.js` : Le script principal.
     - `ls.py` : Un script Python pour lister les fichiers d'un répertoire.
-- `README.md` : Le fichier README contenant les informations du projet.
+  - `README.md` : Le fichier README contenant les informations du projet.
 
 ## Auteurs
 

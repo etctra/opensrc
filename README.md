@@ -24,6 +24,11 @@ node script.js
 
 Assurez-vous d'être dans le répertoire contenant le fichier `script.js` pour exécuter la commande.
 
+### Installation de Python :
+
+- **Windows :** Téléchargez depuis [python.org](https://www.python.org/downloads/) et suivez les instructions.
+- **macOS :** Utilisez Homebrew avec `brew install python` ou téléchargez depuis [python.org](https://www.python.org/downloads/).
+
 ## Exécution de ls.py
 
 Pour utiliser le script `ls.py` et lister les fichiers dans un répertoire donné, suivez ces étapes :

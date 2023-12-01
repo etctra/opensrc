@@ -4,7 +4,24 @@ Introduction à l'open source avec un projet
 
 ## Introduction
 
-Une introduction plus détaillée du projet, ce qu'il fait, son objectif, etc.
+Le projet **opensrc** est une plateforme de démonstration pour apprendre les bases de l'open source et de la collaboration sur des projets. Il offre une opportunité d'apprendre Git, GitHub et les bonnes pratiques de développement logiciel en équipe.
+
+## Installation
+
+Pour commencer à utiliser **opensrc**, suivez ces étapes :
+
+1. Clonez le projet : `git clone https://github.com/etctra/opensrc`
+2. Accédez au répertoire : `cd opensrc/src`
+3. Installez les dépendances : `npm install`
+
+## Comment Exécuter
+
+Une fois les dépendances installées, vous pouvez exécuter le script principal :
+
+```bash
+node script.js
+
+Assurez-vous d'être dans le répertoire contenant le fichier `script.js` pour exécuter la commande.
 
 ## Comment Contribuer
 
@@ -17,12 +34,12 @@ Une introduction plus détaillée du projet, ce qu'il fait, son objectif, etc.
 
 ## Structure du Projet
 
-Expliquez brièvement la structure de votre projet (dossiers, fichiers principaux).
+[Expliquez brièvement la structure de votre projet : dossiers principaux, fichiers, etc.]
 
 ## Auteurs
 
-- [Dan Zerbib]([https://github.com/etctra]) - 2A5
+- Dan Zerbib - 2A5
 
 ## License
 
-Ce projet est sous licence [MIT](LIEN_VERS_LE_FICHIER_LICENSE).
+Ce projet est sous licence MIT.

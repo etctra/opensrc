@@ -60,7 +60,14 @@ python ls.py /chemin/du/repertoire
 
 ## Structure du Projet
 
-[Expliquez brièvement la structure de votre projet : dossiers principaux, fichiers, etc.]
+Le projet est structuré comme suit :
+
+- **opensrc :** Contient les fichiers principaux du projet.
+  - `LICENSE`
+  - `src` : Le répertoire des fichiers sources.
+    - `script.js` : Le script principal.
+    - `ls.py` : Un script Python pour lister les fichiers d'un répertoire.
+- `README.md` : Le fichier README contenant les informations du projet.
 
 ## Auteurs
 

@@ -1,14 +1,10 @@
 # opensrc
 
-Description brève du projet en une ou deux phrases.
+Introduction à l'open source avec un projet
 
 ## Introduction
 
 Une introduction plus détaillée du projet, ce qu'il fait, son objectif, etc.
-
-## Installation
-
-Expliquez comment installer ou utiliser votre programme sur différentes distributions ou plateformes.
 
 ## Comment Contribuer
 
@@ -25,8 +21,8 @@ Expliquez brièvement la structure de votre projet (dossiers, fichiers principau
 
 ## Auteurs
 
-- [Votre Nom](LIEN_VERS_VOTRE_PROFIL_GITHUB) - Votre Rôle
+- [Dan Zerbib]([https://github.com/etctra]) - 2A5
 
 ## License
 
-Ce projet est sous licence [Nom de la Licence](LIEN_VERS_LE_FICHIER_LICENSE).
+Ce projet est sous licence [MIT](LIEN_VERS_LE_FICHIER_LICENSE).

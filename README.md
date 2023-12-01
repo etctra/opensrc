@@ -22,8 +22,27 @@ Une fois les dépendances installées, vous pouvez exécuter le script principal
 node script.js
 ```
 
-
 Assurez-vous d'être dans le répertoire contenant le fichier `script.js` pour exécuter la commande.
+
+## Exécution de ls.py
+
+Pour utiliser le script `ls.py` et lister les fichiers dans un répertoire donné, suivez ces étapes :
+
+1. Assurez-vous d'avoir Python installé sur votre système.
+2. Ouvrez un terminal et naviguez vers le répertoire où se trouve le fichier `ls.py`.
+3. Exécutez la commande suivante :
+
+```bash
+python ls.py
+```
+
+Cette commande listera tous les fichiers du répertoire actuel.
+
+Si vous souhaitez lister les fichiers d'un répertoire spécifique, vous pouvez également spécifier le chemin du répertoire à lister en ajoutant le chemin relatif ou absolu après la commande.
+
+```bash
+python ls.py /chemin/du/repertoire
+```
 
 ## Comment Contribuer
 

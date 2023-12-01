@@ -14,7 +14,7 @@ Pour commencer à utiliser **opensrc**, suivez ces étapes :
 2. Accédez au répertoire : `cd opensrc/src`
 3. Installez les dépendances : `npm install`
 
-## Comment Exécuter
+## Exécution de script.js
 
 Une fois les dépendances installées, vous pouvez exécuter le script principal :
 
@@ -24,7 +24,7 @@ node script.js
 
 Assurez-vous d'être dans le répertoire contenant le fichier `script.js` pour exécuter la commande.
 
-### Installation de Python :
+## Installation de Python :
 
 - **Windows :** Téléchargez depuis [python.org](https://www.python.org/downloads/) et suivez les instructions.
 - **macOS :** Utilisez Homebrew avec `brew install python` ou téléchargez depuis [python.org](https://www.python.org/downloads/).
@@ -60,7 +60,14 @@ python ls.py /chemin/du/repertoire
 
 ## Structure du Projet
 
-[Expliquez brièvement la structure de votre projet : dossiers principaux, fichiers, etc.]
+Le projet est structuré comme suit :
+
+- **opensrc :** Contient les fichiers principaux du projet.
+  - `LICENSE`
+  - `src` : Le répertoire des fichiers sources.
+    - `script.js` : Le script principal.
+    - `ls.py` : Un script Python pour lister les fichiers d'un répertoire.
+  - `README.md` : Le fichier README contenant les informations du projet.
 
 ## Auteurs
 
